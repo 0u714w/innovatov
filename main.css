@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+
+.title {
+    width: 50%;
+    margin: auto;
+    font-family: 'Staatliches';
+    
+    text-align: center;
+    
+    color: white;
+    
+
+}
+
+.p1 {
+    font-size: 1.5em;
+}
+
+.p2 {
+    font-size: 1.5em;
+    
+}
+
+
+a:link {
+    color: #255F8C;
+}
+
+
+.bio {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    /* background-color: rgba(255, 255, 255, 0.3); */
+    font-family: 'Staatliches';
+    color: white;
+    
+}
+
+.contact {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    /* background-color: rgba(255, 255, 255, 0.3); */
+    font-family: 'Staatliches';
+    color: white;
+    font-size: 1.5em;
+    
+}
+
+.mainPhoto {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.90;
+  border: 2px solid white;
+  
+}
+
+body {
+
+    background-image: url("./Images/bigsky.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+    
+    
+    
+
+}
